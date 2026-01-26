@@ -27,8 +27,7 @@ const Hero: React.FC = () => {
           <div className="relative w-80 h-80">
             <div className="absolute inset-0 bg-cyan-500 rounded-2xl rotate-6 opacity-20 blur-2xl animate-pulse"></div>
             <div className="relative w-full h-full bg-slate-800 rounded-3xl overflow-hidden border border-slate-700">
-               <img src="https://scontent.frjh9-1.fna.fbcdn.net/v/t39.30808-6/504316950_1024288739885783_1861962649454180971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kNifvdjPLiwQ7kNvwGJ5MLy&_nc_oc=AdnoLbIuTGTOuCxgyGCu_1xGYTjC3cDi_-3TIwAVOfepPjBkOifk0iP4g7DIidn9_WI&_nc_zt=23&_nc_ht=scontent.frjh9-1.fna&_nc_gid=v-wMpe8L2vxTTmm5bt2Atg&oh=00_AfqhEBVbmaziWKwj4BEgH5R4q_0rRJxwBtXSweTCx_QOkQ&oe=697049F3" 
-                 alt="Soikot" 
+               <img src="https://scontent.frjh9-1.fna.fbcdn.net/v/t39.30808-6/589516963_862599132892417_1734293507707025472_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uZTC-WJ9ymMQ7kNvwH3UVQ-&_nc_oc=AdnYK6wxUDWXOpP_s-1hal8dZ2E-VOtpO7POy5_wUMS3ezQ6SpF57KMDps_nNY6n7vM&_nc_zt=23&_nc_ht=scontent.frjh9-1.fna&_nc_gid=K9up2pXTBwNg2yoS-eofaQ&oh=00_AfpwxaRI66dbY3bxoa7S9KSkbwEs_Sy5HXn23oCuL-ucFQ&oe=697D8C4E 
                  className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
                />
             </div>
